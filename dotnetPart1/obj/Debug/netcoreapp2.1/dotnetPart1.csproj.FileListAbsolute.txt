@@ -1,0 +1,11 @@
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\bin\Debug\netcoreapp2.1\dotnetPart1.deps.json
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\bin\Debug\netcoreapp2.1\dotnetPart1.runtimeconfig.json
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\bin\Debug\netcoreapp2.1\dotnetPart1.runtimeconfig.dev.json
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\bin\Debug\netcoreapp2.1\dotnetPart1.dll
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\bin\Debug\netcoreapp2.1\dotnetPart1.pdb
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\obj\Debug\netcoreapp2.1\dotnetPart1.csprojAssemblyReference.cache
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\obj\Debug\netcoreapp2.1\dotnetPart1.csproj.CoreCompileInputs.cache
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\obj\Debug\netcoreapp2.1\dotnetPart1.AssemblyInfoInputs.cache
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\obj\Debug\netcoreapp2.1\dotnetPart1.AssemblyInfo.cs
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\obj\Debug\netcoreapp2.1\dotnetPart1.dll
+C:\Users\Jodie Caffin\Documents\Programmes\dotnetPart1\obj\Debug\netcoreapp2.1\dotnetPart1.pdb
