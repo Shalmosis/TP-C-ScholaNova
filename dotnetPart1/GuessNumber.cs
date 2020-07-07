@@ -1,10 +1,10 @@
 using System;
 
-namespace dotnetPart1
+namespace guessNumber
 {
     class GuessNumber
     {
-        static void Main(string[] args)
+        /* static void Main(string[] args)
         {
             Console.WriteLine("====== Hello World ======");
             Console.WriteLine("====== REGLES DU JEU ==== \n Le but est simple: devinez le nombre généré!");
@@ -106,6 +106,6 @@ namespace dotnetPart1
                 Console.Write("Vous êtes aussi rapides!");
 
             }
-        }
+        } */
     }
 }
